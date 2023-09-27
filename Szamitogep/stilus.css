@@ -1,0 +1,34 @@
+*{
+    color: #333333;
+}
+#tarto{
+    width: 45%;
+    margin: auto;
+    background-image: url(Images/alap.jpg);
+    padding: 1.5em 1em;
+}
+hr{
+    height: 5px;
+    background-color: #555555;
+    border-radius: 2.5px;
+}
+#osztott1{
+    display: flex;
+}
+#kep1{
+    width: 25%;
+    
+}
+#kep1 img{
+    width: 100%;
+}
+#osztott2{
+    display: flex;
+}
+#kep2{
+    width: 20%;
+    
+}
+#kep2 img{
+    width: 100%;
+}
